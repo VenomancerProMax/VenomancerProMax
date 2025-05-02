@@ -9,10 +9,3 @@
 <p align="center">
   <img src="https://giffiles.alphacoders.com/158/158666.gif" alt="Under Construction" width="70%" />
 </p>
-
-<h3 align="center">☕ Fuel the Code Machine</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/VenomancerProMax">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-</p>
