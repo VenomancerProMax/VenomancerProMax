@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>README Enhanced</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="readme-container">Loading README...</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
 <!--
 **VenomancerProMax/VenomancerProMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
