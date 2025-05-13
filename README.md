@@ -1,5 +1,5 @@
 <p align="center"><strong>Hey there! 👋 I'm Mico Martija </strong></p>
-<p align="center">⚡ Software Developer, writing code and hoping no one realizes I'm just winging it in this adult costume. </p>
+<p align="center">⚡ Software Developer, writing code and hoping no one realizes I'm just winging it in this adult costume.</p>
 
 ---
 
